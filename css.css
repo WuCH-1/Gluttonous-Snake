@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    border: 1px solid #fff;
+    height: 19px;
+    width: 19px;
+}
+
+.warp {
+    overflow: hidden;
+}
+
+table {
+    margin: 20px auto 0;
+    border-collapse: collapse;
+    background: #E6E6E6;
+    position: relative;
+}
+
+.food {
+    background: #6600cc;
+}
+
+.snake {
+    background: #00ffcc;
+}
